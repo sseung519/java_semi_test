@@ -26,6 +26,6 @@ public class Quiz01_02 {
 
     @Override
     public String toString() {
-        return super.toString();
+        return "이름: " + name + " 반: " + ban + " 번호: " + no;
     }
 }
